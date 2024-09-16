@@ -7,6 +7,8 @@ New : eBook TO PDF 이전 버전 두개의 프로그램을 하나로 합침
 소스파일 :
 실행파일:
 
+py소스 파일로 EXE 파일 만들기
+pyinstaller --onefile --windowed --name EBookToPDF_by_muttul EBookToPDF_04.py
 
 NVIDIA 비디오 카드를 사용하면 Alt + F1 키로 캡쳐 받아짐.
 ** 제일 먼저 NVIDIA 프로그램을 실행해야 합니다. **
