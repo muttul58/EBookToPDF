@@ -1,4 +1,7 @@
 # EBookToPDF
+사용방법 동영상 : 
+https://youtu.be/srk8iUTtb-4?si=sWExCrPJadY47SkX
+
 EBook 를 캡처 받아 PDF 파일로 만들기
 이전 버전 : 캡처 받는 프로그램 + PDF 만드는 프로그램
 
